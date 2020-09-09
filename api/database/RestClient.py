@@ -43,6 +43,7 @@ class RestClient():
         if method_name == "delete":
             return self.session.delete(url, **kwargs)
 
-
+if __name__ == '__main__':
+     RestClient()
 
 
