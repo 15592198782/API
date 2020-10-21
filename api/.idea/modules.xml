@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../TUGithubAPI/.idea/TUGithubAPI.iml" filepath="$PROJECT_DIR$/../TUGithubAPI/.idea/TUGithubAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TUGithubAPITest/.idea/TUGithubAPITest.iml" filepath="$PROJECT_DIR$/../TUGithubAPITest/.idea/TUGithubAPITest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/api.iml" filepath="$PROJECT_DIR$/.idea/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../simpleWebtest/.idea/simpleWebtest.iml" filepath="$PROJECT_DIR$/../simpleWebtest/.idea/simpleWebtest.iml" />
     </modules>
   </component>
 </project>

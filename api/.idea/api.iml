@@ -6,6 +6,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="R Skeletons" level="application" />
     <orderEntry type="library" name="R User Library" level="project" />
+    <orderEntry type="module" module-name="simpleWebtest" />
+    <orderEntry type="module" module-name="TUGithubAPI" />
+    <orderEntry type="module" module-name="TUGithubAPITest" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
